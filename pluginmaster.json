@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "换肤器 Lite",
+    "InternalName": "b1ank.skin-changer",
+    "Version": "0.1.8",
+    "Author": "b1ank",
+    "Punchline": "为当前角色切换配饰和滑翔翼外观。",
+    "Description": "支持眼部与头顶配饰分别选择、同时佩戴，以及按角色保存本次运行中的配饰和滑翔翼外观。仅影响本地显示。",
+    "Games": ["nte"],
+    "ApiMajor": 1,
+    "Tags": ["appearance", "cosmetic"],
+    "RepoUrl": "https://github.com/kongbaibaizi/SkinChanger",
+    "DownloadLinkInstall": "https://github.com/kongbaibaizi/SkinChanger/releases/download/0.1.8/SkinChanger-0.1.8-Lite.zip",
+    "DownloadLinkUpdate": "https://github.com/kongbaibaizi/SkinChanger/releases/download/0.1.8/SkinChanger-0.1.8-Lite.zip",
+    "AcceptsFeedback": true
+  }
+]
